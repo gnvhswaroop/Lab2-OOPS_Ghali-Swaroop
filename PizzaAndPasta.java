@@ -149,7 +149,7 @@ void notifyOrdersystem()
     System.out.println();
 }
 }
-class PizzaAndPasta
+public class PizzaAndPasta
 {
 public static void main(String arg[])
 {
